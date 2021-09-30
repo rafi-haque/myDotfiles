@@ -876,15 +876,15 @@ bindsym control+mod1+o exec --no-startup-id ~/.config/i3/scripts/picom-toggle.sh
 #####################################################################################################################
 
     ##START THEMING WM
-    #Theme name : ArcoLinux Firedust
+    #Theme name : ArcoLinux Mind
 
     # Window color settings
     # class                 border  backgr. text    indicator
-    client.focused          #d64937 #d64937 #2D2D2D #d64937
-    client.unfocused        #2D2D2D #2d2d2d #dcdcdc #292d2e
-    client.focused_inactive #2d2d2d #2d2d2d #dcdcdc #484e50
-    client.placeholder      #2d2d2d #2d2d2d #dcdcdc #484e502
-    client.urgent           #2D2D2D #2D2D2D #dcdcdc #900000
+    client.focused          #556064 #556064 #80FFF9 #FDF6E3
+    client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
+    client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
+    client.placeholder      #2F3D44 #2F3D44 #1ABC9C #454948
+    client.urgent           #CB4B16 #FDF6E3 #1ABC9C #CB4B16
 
     client.background       #242424
 
